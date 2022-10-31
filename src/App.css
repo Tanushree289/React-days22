@@ -1,0 +1,16 @@
+.heading{
+  display: flex;
+  justify-content: space-around;
+  background-color: gray;
+  padding: 10px;
+  margin: 0;
+}
+.text{
+  text-decoration: none;
+  color: tomato;
+  font-size: 20px;
+}
+
+body{
+  background-color: rgb(175, 174, 174);
+}
